@@ -1,0 +1,18 @@
+.app {
+ 
+        background-image: linear-gradient(
+          to right,
+          #052137,
+          #005373,
+          #008a89,
+          #00c06b,
+          #a8eb12
+        );
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      
+}
